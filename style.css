@@ -20,7 +20,7 @@ section{
     justify-content: center;
     align-items: center;
     z-index: 2;
-    clip-path: circle(100px at left center);
+    clip-path: circle(0px at left center);
 }
 .title{
     position: fixed;
